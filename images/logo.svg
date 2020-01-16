@@ -1,39 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
-
-<svg>
-<metadata>
-Created by webfont
-</metadata>
-<defs>
-
-<font id="AlibabaPuHuiTiM" horiz-adv-x="1306" vert-adv-y="1306" >
-  <font-face
-    
-    font-family="AlibabaPuHuiTiM"
-    
-    font-weight="400"
-    
-    font-stretch="normal"
-    
-    units-per-em="1000"
-    
-    ascent="1128"
-    
-    descent="-310"
-    
-  />
-    <missing-glyph />
-    
-    <glyph glyph-name="uni4e" unicode="&#x4e;" d="M82 0L82 694L283 694L535 171L541 171L541 694L669 694L669 0L491 0L217 556L211 556L211 0L82 0Z"  horiz-adv-x="751" vert-adv-y="1000"  />
-
-    
-    <glyph glyph-name="uni65" unicode="&#x65;" d="M535 317Q535 278 530 246L176 223Q178 154 214.50 122.50Q251 91 331 91Q377 91 427 102Q477 113 507 128L507 26Q482 11 427 0.50Q372-10 309-10Q178-10 114 51.50Q50 113 50 270Q50 427 114 488.50Q178 550 309 550Q377 550 423 532Q469 514 492.50 480.50Q516 447 525.50 408Q535 369 535 317M176 312L419 330Q419 389 397 421.50Q375 454 309 454Q237 454 207.50 419.50Q178 385 176 312Z"  horiz-adv-x="583" vert-adv-y="1000"  />
-
-    
-    <glyph glyph-name="uni6f" unicode="&#x6f;" d="M309-10Q178-10 114 51.50Q50 113 50 270Q50 427 114 488.50Q178 550 309 550Q441 550 505 488.50Q569 427 569 270Q569 113 505 51.50Q441-10 309-10M309 87Q384 87 412 126Q440 165 440 270Q440 375 411.50 414.50Q383 454 309 454Q235 454 207 414.50Q179 375 179 270Q179 166 207.50 126.50Q236 87 309 87Z"  horiz-adv-x="619" vert-adv-y="1000"  />
-
-    
-
-  </font>
-</defs></svg>
+<svg
+    xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewbox="0 0 949 256">
+    <path fill="#2366d1" d="M110.85125168440814 128L221.70250336881628 192L110.85125168440814 256L0 192Z"/>
+    <path fill="#609dff" d="M110.85125168440814 64L221.70250336881628 128L110.85125168440814 192L0 128Z"/>
+    <path fill="#a4c7ff" d="M110.85125168440814 0L221.70250336881628 64L110.85125168440814 128L0 64Z"/>
+</svg>
